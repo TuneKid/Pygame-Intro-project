@@ -1,4 +1,4 @@
-counter = 1
-while counter < 11:
-  print(counter)
-  counter += 1
+counter4 = 1
+while counter4 < 11:
+  print(counter4)
+  counter4 += 1
